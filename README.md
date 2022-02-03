@@ -8,7 +8,7 @@ I'm currently a **Front-end web developer** at **[WeTix](https://github.com/weti
 
 - Took a Bachelor's Degree in **Computer Science**
 - My majors are **Software Engineering, and Multimedia & Game Development**
-- FYP: E-Learning Management System with **[DoerHRM](https://www.doerhrm.com/)**
+- **Final Year Project** - E-Learning Management System with **[DoerHRM](https://www.doerhrm.com/)**
 
 Role | Description
 ------------ | -------------
@@ -41,6 +41,7 @@ Unit testing | Writing tests for existing code/Svelte components using [`jest`](
 ### Web Development
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -66,6 +67,7 @@ Unit testing | Writing tests for existing code/Svelte components using [`jest`](
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## What I like
 - Video games 🎮 (osu!, Genshin Impact etc)
