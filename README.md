@@ -68,6 +68,14 @@ Unit testing | Writing tests for existing code/Svelte components using [`jest`](
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+[Matter.js](https://brm.io/matter-js/)
+
+## Interested in
+- Contributing to Open-Source
+- Making Videos/Articles
+- Making Discord/Twitter bots
+- Machine Learning
+- Developing a game
 
 ## What I like
 - Video games 🎮 (osu!, Genshin Impact etc)
