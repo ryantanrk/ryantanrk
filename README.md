@@ -2,6 +2,9 @@
 Hi there 👋. I'm **Ryan Tan** *(he/him)*.
 
 I'm currently a **Front-end web developer** at **[WeTix](https://github.com/wetix)**!
+
+[<img src="https://user-images.githubusercontent.com/49902829/152377751-c651e6d8-2832-4b2e-82b0-8f2f6128a49a.png"/>](https://wetix.my)
+
 ## My experience
 
 - Took a Bachelor's Degree in **Computer Science**
