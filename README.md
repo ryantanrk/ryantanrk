@@ -43,7 +43,7 @@ Unit testing | Writing tests for existing code/Svelte components using [`jest`](
 ### Testing
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-[https://testing-library.com/](Testing Library)
+[Testing Library](https://testing-library.com/)
 
 ### Learning
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
