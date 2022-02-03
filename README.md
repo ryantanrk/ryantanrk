@@ -8,6 +8,13 @@ I'm currently a **Front-end web developer** at **[WeTix](https://github.com/weti
 
 - Took a Bachelor's Degree in **Computer Science**
 - My majors are **Software Engineering, and Multimedia & Game Development**
+- FYP: E-Learning Management System with **[DoerHRM](https://www.doerhrm.com/)**
+
+Role | Description
+------------ | -------------
+Database Design | Design the entire database **structure** and make changes as the project develops
+Back-end Development | Develop various **classes** and **functions** to interact with the database using PHP
+Testing | Testing new features manually
 - Currently working with **[WeTix](https://github.com/wetix)** since **Jan 2022**
 
 Role | Description
