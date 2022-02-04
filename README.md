@@ -1,5 +1,5 @@
 # Welcome to my profile!
-Hi there 👋. I'm **Ryan Tan** *(he/him)*, I'm from Malaysia, and currently a **Front-end web developer** at **[WeTix](https://github.com/wetix)**!
+Hi there 👋. I'm **Ryan Tan** *(he/him)*, I'm from Malaysia, working currently as a **Front-end web developer** at **[WeTix](https://github.com/wetix)**!
 
 [<img src="https://asset.wetix.my/images/logo/wetix.png" alt="WeTix" width="240px">](https://wetix.my)
 ## My experience
@@ -9,17 +9,17 @@ Hi there 👋. I'm **Ryan Tan** *(he/him)*, I'm from Malaysia, and currently a *
 - My majors are **Software Engineering, and Multimedia & Game Development**
 - *Final Year Project* - **E-Learning Management System** with **[DoerHRM](https://www.doerhrm.com/)**
 
-Role | Description
+Responsibility | Description
 ------------ | -------------
-Database Design | Design the entire database **structure** and make changes as the project develops
+Database Design | Design the entire database **structure** and **make changes** as the project develops
 Back-end Development | Develop various **classes** and **functions** to interact with the database using PHP
-Testing | Testing new features manually as they get developed
+Testing | Testing new features **manually** as they get developed
 - Currently working with **[WeTix](https://github.com/wetix)** since **Jan 2022**
 
-Role | Description
+Responsibility | Description
 ------------ | -------------
 Front-end Development | Help develop the front end of the website and focus on any design flaws or errors, with **responsiveness** and **simplicity** taken into account
-Unit testing | Writing tests for existing code/Svelte components using [`jest`](https://jestjs.io/) and [`@testing-library`](https://testing-library.com/)
+Unit testing | Writing **automatic tests** for existing code/Svelte components using [`jest`](https://jestjs.io/) and [`@testing-library`](https://testing-library.com/)
 
 ### Main IDEs
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
