@@ -1,20 +1,19 @@
-# About Me 
-Hi there 👋. I'm **Ryan Tan** *(he/him)*.
-
-I'm currently a **Front-end web developer** at **[WeTix](https://github.com/wetix)**!
+# Welcome to my profile!
+Hi there 👋. I'm **Ryan Tan** *(he/him)*, I'm from Malaysia, and currently a **Front-end web developer** at **[WeTix](https://github.com/wetix)**!
 
 [<img src="https://asset.wetix.my/images/logo/wetix.png" alt="WeTix" width="240px">](https://wetix.my)
 ## My experience
-
-- Took a Bachelor's Degree in **Computer Science**
+- Went to **INTI International College Subang**
+- Took Foundation in **Business & IT** in **2018**
+- Took a Bachelor's Degree in **Computer Science** from **2019 to 2021**
 - My majors are **Software Engineering, and Multimedia & Game Development**
-- **Final Year Project** - E-Learning Management System with **[DoerHRM](https://www.doerhrm.com/)**
+- *Final Year Project* - **E-Learning Management System** with **[DoerHRM](https://www.doerhrm.com/)**
 
 Role | Description
 ------------ | -------------
 Database Design | Design the entire database **structure** and make changes as the project develops
 Back-end Development | Develop various **classes** and **functions** to interact with the database using PHP
-Testing | Testing new features manually
+Testing | Testing new features manually as they get developed
 - Currently working with **[WeTix](https://github.com/wetix)** since **Jan 2022**
 
 Role | Description
@@ -82,11 +81,11 @@ Unit testing | Writing tests for existing code/Svelte components using [`jest`](
 - Video games 🎮 (osu!, Genshin Impact etc)
 - Webtoons 📱📖 (manga, manhwa, western comics etc)
 - Movies 🍿
-- Anime ✨
-- Pop, hip-hop, R&B Music 🎧
+- Anime ✨ (Slice of life, Shonen, Isekai etc)
+- Music 🎧 (Pop, Hip-hop, R&B, Chill)
 - Travelling 🚗 (on occasion) 
 
-## You can find me at
+## You can find me on
 
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/survonline)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/ryantan/)
