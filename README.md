@@ -1,12 +1,12 @@
 # Welcome to my profile!
-Hi there 👋. I'm **Ryan Tan** *(he/him)*, I'm from Malaysia, working currently as a **Front-end web developer** at **[WeTix](https://github.com/wetix)**!
+Hi there 👋. I'm **Ryan Tan** (`he/him`) , I'm from Malaysia, currently working as a **Front-End Web Developer** at **[WeTix](https://github.com/wetix)**!
 
 [<img src="https://asset.wetix.my/images/logo/wetix.png" alt="WeTix" width="240px">](https://wetix.my)
 ## My experience
-- Went to **INTI International College Subang**
-- Took Foundation in **Business & IT** in **2018**
-- Took a Bachelor's Degree in **Computer Science** from **2019 to 2021**
-- My majors are **Software Engineering, and Multimedia & Game Development**
+- Studied at **[INTI International College Subang](https://newinti.edu.my/)**
+- Took Foundation in **Business & IT** in **2018** (1 year)
+- Took a Bachelor's Degree in **Computer Science** from **2019 to 2021** (3 years)
+- My majors are **Software Engineering, Multimedia & Game Development**
 - *Final Year Project* - **E-Learning Management System** with **[DoerHRM](https://www.doerhrm.com/)**
 
 Responsibility | Description
@@ -20,11 +20,6 @@ Responsibility | Description
 ------------ | -------------
 Front-end Development | Help develop the front end of the website and focus on any design flaws or errors, with **responsiveness** and **simplicity** taken into account
 Unit testing | Writing **automatic tests** for existing code/Svelte components using [`jest`](https://jestjs.io/) and [`@testing-library`](https://testing-library.com/)
-
-### Main IDEs
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## Languages and Frameworks
 ### General
@@ -81,7 +76,7 @@ Unit testing | Writing **automatic tests** for existing code/Svelte components u
 - Video games 🎮 (osu!, Genshin Impact etc)
 - Webtoons 📱📖 (manga, manhwa, western comics etc)
 - Movies 🍿
-- Anime ✨ (Slice of life, Shonen, Isekai etc)
+- Anime ✨ (slice of life etc)
 - Music 🎧 (Pop, Hip-hop, R&B, Chill)
 - Travelling 🚗 (on occasion) 
 
