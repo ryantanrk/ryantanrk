@@ -4,17 +4,19 @@ Hi there 👋. I'm **Ryan Tan** (`he/him`) , I'm from Malaysia, currently workin
 [<img src="https://asset.wetix.my/images/logo/wetix.png" alt="WeTix" width="240px">](https://wetix.my)
 ## My experience
 - Studied at **[INTI International College Subang](https://newinti.edu.my/)**
-- Took Foundation in **Business & IT** in **2018** (1 year)
-- Took a Bachelor's Degree in **Computer Science** from **2019 to 2021** (3 years)
-- My majors are **Software Engineering, Multimedia & Game Development**
-- *Final Year Project* - **E-Learning Management System** with **[DoerHRM](https://www.doerhrm.com/)**
+    - Took Foundation in **Business & IT** in **2018** (1 year)
+    - Took a Bachelor's Degree in **Computer Science** from **2019 to 2021** (3 years)
+    - My majors are **Software Engineering, Multimedia & Game Development**
+    - *Final Year Project* - **E-Learning Management System** with **[DoerHRM](https://www.doerhrm.com/)**
 
 Responsibility | Description
 ------------ | -------------
 Database Design | Design the entire database **structure** and **make changes** as the project develops
 Back-end Development | Develop various **classes** and **functions** to interact with the database using PHP
 Testing | Testing new features **manually** as they get developed
+
 - Currently working with **[WeTix](https://github.com/wetix)** since **Jan 2022**
+    - WeTix Website
 
 Responsibility | Description
 ------------ | -------------
