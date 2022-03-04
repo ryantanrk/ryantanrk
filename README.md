@@ -95,7 +95,6 @@ Reactive Development | Using [`rxjs`](https://rxjs.dev/) to handle dataflow in t
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/survonline)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/ryantan/)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ryantanrk/)
-[<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>](https://www.tiktok.com/@survivalistxyz)
 
 [I got the badges here!](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
