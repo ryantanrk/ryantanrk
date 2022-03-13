@@ -1,5 +1,5 @@
 # Welcome to my profile!
-Hi there 👋. I'm **Ryan Tan** (`he/him`) , I'm from Malaysia, currently working as a **Front-End Web Developer** at **[WeTix](https://github.com/wetix)**!
+Hi there 👋. I'm **Ryan** (`he/him`) , I'm from Malaysia, currently working as a **Junior Front-End Web Developer** at **[WeTix](https://github.com/wetix)**!
 
 [<img src="https://asset.wetix.my/images/logo/wetix.png" alt="WeTix" width="240px">](https://wetix.my)
 ## My experience
