@@ -1,5 +1,5 @@
 # Welcome to my profile!
-Hi there 👋. I'm **Ryan Tan** (`he/him`) , I'm from Malaysia, currently working as a **Front-End Web Developer** at **[WeTix](https://github.com/wetix)**!
+Hi there 👋. I'm **Ryan Tan** (`he/him`) , I'm from Malaysia, currently working as a **Software Engineer** at **[WeTix](https://github.com/wetix)**!
 
 [<img src="https://asset.wetix.my/images/logo/wetix.png" alt="WeTix" width="240px">](https://wetix.my)
 ## My experience
@@ -16,15 +16,15 @@ Back-end Development | Developing various **classes** and **functions** to inter
 Testing | Testing new features **manually** as they get developed
 
 - Currently working with **[WeTix](https://github.com/wetix)** since **Jan 2022**
-- WeTix Website
+- WeTix Website (https://wetix.my)
 
 Responsibility | Description
 ------------ | -------------
-Front-end Development | Helping develop the front end of the website using [`sveltekit`](https://kit.svelte.dev/) and focus on any design flaws or errors, with **responsiveness** and **simplicity** taken into account
+Front-end Development | Helping develop the front end of the website using [`svelte-kit`](https://kit.svelte.dev/) and focus on any design flaws or errors, with **responsiveness** and **simplicity** taken into account
 Reactive Development | Using [`rxjs`](https://rxjs.dev/) to handle dataflow in the website
 Unit testing | Writing **automatic tests** for existing code/Svelte components using [`jest`](https://jestjs.io/) and [`@testing-library`](https://testing-library.com/)
 
-- WeTix Mobile
+- WeTix Mobile (in various apps like TNG eWallet, Boost, & Senheng)
 
 Responsibility | Description
 ------------ | -------------
@@ -49,6 +49,7 @@ Reactive Development | Using [`rxjs`](https://rxjs.dev/) to handle dataflow in t
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 
 ### Mobile Development
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -65,10 +66,9 @@ Reactive Development | Using [`rxjs`](https://rxjs.dev/) to handle dataflow in t
 ### Learning
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Want to Learn
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
