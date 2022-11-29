@@ -1,7 +1,7 @@
 # Welcome to my profile!
-Hi there 👋. I'm **Ryan Tan** (`he/him`) , I'm from Malaysia, currently working as a **Software Engineer** at **[WeTix](https://github.com/wetix)**!
+Hi there 👋. I'm **Ryan Tan** (`he/him`) , I'm from Malaysia, currently working as a **Software Engineer** at **[GfK](https://www.gfk.com/)**!
 
-[<img src="https://asset.wetix.my/images/logo/wetix.png" alt="WeTix" width="240px">](https://wetix.my)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/GfK_%28Unternehmen%29_2019_logo.svg/1200px-GfK_%28Unternehmen%29_2019_logo.svg.png" alt="GfK" width="200px">](https://www.gfk.com/)
 ## My experience
 - Studied at **[INTI International College Subang](https://newinti.edu.my/)**
     - Took Foundation in **Business & IT** in **2018** (1 year)
@@ -20,7 +20,7 @@ Testing | Testing new features **manually** as they get developed
 
 Responsibility | Description
 ------------ | -------------
-Front-end Development | Helping develop the front end of the website using [`svelte-kit`](https://kit.svelte.dev/) and focus on any design flaws or errors, with **responsiveness** and **simplicity** taken into account
+Front-end Development | Helping develop the front end of the website using [`svelte-kit`](https://kit.svelte.dev/) and focus on any design/functional flaws or errors, with **responsiveness** and **simplicity** taken into account
 Reactive Development | Using [`rxjs`](https://rxjs.dev/) to handle dataflow in the website
 Unit testing | Writing **automatic tests** for existing code/Svelte components using [`jest`](https://jestjs.io/) and [`@testing-library`](https://testing-library.com/)
 
@@ -31,6 +31,13 @@ Responsibility | Description
 Front-end Development | Helping develop the front-end modules of the website using [`svelte`](https://svelte.dev/)
 Reactive Development | Using [`rxjs`](https://rxjs.dev/) to handle dataflow in the website
 
+- WeTix API (Back-end)
+
+Responsibility | Description
+------------ | -------------
+Developing endpoints | Creating new endpoints in the REST API and GraphQL API for use in WeTix products
+Database design | Alter the database design based on new features that are being introduced into the products
+
 ## Languages and Frameworks
 ### General
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -38,6 +45,7 @@ Reactive Development | Using [`rxjs`](https://rxjs.dev/) to handle dataflow in t
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Graphics
 ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
@@ -50,6 +58,9 @@ Reactive Development | Using [`rxjs`](https://rxjs.dev/) to handle dataflow in t
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+
+### Back end
+![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Mobile Development
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -65,8 +76,6 @@ Reactive Development | Using [`rxjs`](https://rxjs.dev/) to handle dataflow in t
 
 ### Learning
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Want to Learn
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
