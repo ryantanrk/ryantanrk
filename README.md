@@ -15,7 +15,7 @@ Database Design | Designing the entire database **structure** and **make changes
 Back-end Development | Developing various **classes** and **functions** to interact with the database using PHP
 Testing | Testing new features **manually** as they get developed
 
-- Currently working with **[WeTix](https://github.com/wetix)** since **Jan 2022**
+- Worked for **[WeTix](https://github.com/wetix)** as a **Junior Software Engineer** from **Jan 2022** - **Nov 2022**
 - WeTix Website (https://wetix.my)
 
 Responsibility | Description
