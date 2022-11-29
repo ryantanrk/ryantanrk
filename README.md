@@ -1,5 +1,5 @@
 # Welcome to my profile!
-Hi there 👋. I'm **Ryan Tan** (`he/him`) , I'm from Malaysia, currently working as a **Software Engineer** at **[GfK](https://www.gfk.com/)**!
+Hi there 👋. I'm **Ryan Tan** (`he/him`) , I'm from Malaysia, currently working as a **Junior Software Engineer** at **[GfK](https://www.gfk.com/)**!
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/GfK_%28Unternehmen%29_2019_logo.svg/1200px-GfK_%28Unternehmen%29_2019_logo.svg.png" alt="GfK" width="200px">](https://www.gfk.com/)
 ## My experience
