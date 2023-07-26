@@ -1,7 +1,7 @@
 # Welcome to my profile!
 Hi there 👋. I'm **Ryan Tan** (`he/him`) , I'm from Malaysia, currently working as a **Junior Software Engineer** at **[GfK](https://www.gfk.com/)**!
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/GfK_%28Unternehmen%29_2019_logo.svg/1200px-GfK_%28Unternehmen%29_2019_logo.svg.png" alt="GfK" width="200px">](https://www.gfk.com/)
+[<img src="/GfK_logo_endorsed_RGB.png" alt="GfK" width="200px">](https://www.gfk.com/)
 ## My experience
 - Studied at **[INTI International College Subang](https://newinti.edu.my/)**
     - Took Foundation in **Business & IT** in **2018** (1 year)
