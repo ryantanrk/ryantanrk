@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="/assets/dancy-dance-oshawott.gif" alt="Oshawott" width="300px"/>
-  <img src="/assets/oshawott-dancing" alt="Oshawott" width="300px"/>
-  <img src="/assets/pokemon-oshawott" alt="Oshawott" width="300px"/>
+  <img src="/assets/dancy-dance-oshawott.gif" alt="Oshawott" width="200px"/>
+  <img src="/assets/oshawott-dancing.gif" alt="Oshawott" width="200px"/>
+  <img src="/assets/pokemon-oshawott.gif" alt="Oshawott" width="200px"/>
 </p>
 
 <details>
