@@ -4,6 +4,10 @@
   <img src="/assets/pokemon-oshawott.gif" alt="Oshawott" width="200px"/>
 </p>
 
+<p align="center" style="font-size: 18px; font-weight: 500;">
+  Yes I love Oshawott, how can you tell?
+</p>
+
 <details>
   <summary>Click me!</summary>
 
