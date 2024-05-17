@@ -1,8 +1,13 @@
+<img src="/assets/dancy-dance-oshawott.gif" alt="Oshawott" width="150px"/>
+
+<details>
+  <summary>Click me!</summary>
+
 # Welcome to my profile!
 
 Hi there 👋. I'm **Ryan Tan** (`he/him`) , I'm from Malaysia, currently working as a **Junior Software Engineer** at **[GfK](https://www.gfk.com/)**!
 
-[<img src="/GfK_logo_endorsed_RGB.png" alt="GfK" width="200px">](https://www.gfk.com/)
+[<img src="/assets/GfK_logo_endorsed_RGB.png" alt="GfK" width="200px">](https://www.gfk.com/)
 
 ## My experience
 
@@ -21,7 +26,8 @@ Hi there 👋. I'm **Ryan Tan** (`he/him`) , I'm from Malaysia, currently workin
 ### WeTix
 
 - Worked for **[WeTix](https://github.com/wetix)** as a **Junior Software Engineer** from **Jan 2022** - **Nov 2022**
-- WeTix Website (https://wetix.my)
+
+#### WeTix Website (https://wetix.my)
 
 | Responsibility        | Description                                                                                                                                                                                                  |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -147,3 +153,5 @@ Roblox Studio
 [I got the badges here!](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 **Appreciate you reading this 🙇‍♂️**
+
+</details>
