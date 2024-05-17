@@ -4,8 +4,8 @@
   <img src="/assets/pokemon-oshawott.gif" alt="Oshawott" width="200px"/>
 </p>
 
-<p align="center" style="font-size: 18px; font-weight: 500;">
-  Yes I love Oshawott, how can you tell?
+<p align="center">
+  Yes I love Oshawott, how could you tell?
 </p>
 
 <details>
