@@ -1,4 +1,6 @@
-<img src="/assets/dancy-dance-oshawott.gif" alt="Oshawott" width="150px"/>
+<p align="center">
+  <img src="/assets/dancy-dance-oshawott.gif" alt="Oshawott" width="300px"/>
+</p>
 
 <details>
   <summary>Click me!</summary>
