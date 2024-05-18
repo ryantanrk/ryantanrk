@@ -9,7 +9,7 @@
 </p>
 
 <details>
-  <summary>Click me!</summary>
+  <summary><b>Click me!</b></summary>
 
 # Welcome to my profile!
 
